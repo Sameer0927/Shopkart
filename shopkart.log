@@ -1,0 +1,448 @@
+2026-10-01 22:19:20,983 INFO WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.182.193.28:5000
+2026-10-01 22:19:20,983 INFO Press CTRL+C to quit
+2026-10-01 22:23:27,202 INFO 127.0.0.1 - - [01/Oct/2026 22:23:27] "GET / HTTP/1.1" 200 -
+2026-10-01 22:23:27,256 INFO 127.0.0.1 - - [01/Oct/2026 22:23:27] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:27,294 INFO 127.0.0.1 - - [01/Oct/2026 22:23:27] "GET /favicon.ico HTTP/1.1" 404 -
+2026-10-01 22:23:30,246 INFO 127.0.0.1 - - [01/Oct/2026 22:23:30] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:33,238 INFO 127.0.0.1 - - [01/Oct/2026 22:23:33] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:36,240 INFO 127.0.0.1 - - [01/Oct/2026 22:23:36] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:39,249 INFO 127.0.0.1 - - [01/Oct/2026 22:23:39] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:42,244 INFO 127.0.0.1 - - [01/Oct/2026 22:23:42] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:45,240 INFO 127.0.0.1 - - [01/Oct/2026 22:23:45] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:48,242 INFO 127.0.0.1 - - [01/Oct/2026 22:23:48] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:51,241 INFO 127.0.0.1 - - [01/Oct/2026 22:23:51] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:54,235 INFO 127.0.0.1 - - [01/Oct/2026 22:23:54] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:23:57,236 INFO 127.0.0.1 - - [01/Oct/2026 22:23:57] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:00,239 INFO 127.0.0.1 - - [01/Oct/2026 22:24:00] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:03,239 INFO 127.0.0.1 - - [01/Oct/2026 22:24:03] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:06,247 INFO 127.0.0.1 - - [01/Oct/2026 22:24:06] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:09,239 INFO 127.0.0.1 - - [01/Oct/2026 22:24:09] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:12,251 INFO 127.0.0.1 - - [01/Oct/2026 22:24:12] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:13,587 INFO checkout ok total=240 coupon=None
+2026-10-01 22:24:13,587 INFO 127.0.0.1 - - [01/Oct/2026 22:24:13] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:24:15,239 INFO 127.0.0.1 - - [01/Oct/2026 22:24:15] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:18,244 INFO 127.0.0.1 - - [01/Oct/2026 22:24:18] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:21,246 INFO 127.0.0.1 - - [01/Oct/2026 22:24:21] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:24,240 INFO 127.0.0.1 - - [01/Oct/2026 22:24:24] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:27,248 INFO 127.0.0.1 - - [01/Oct/2026 22:24:27] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:30,246 INFO 127.0.0.1 - - [01/Oct/2026 22:24:30] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:33,254 INFO 127.0.0.1 - - [01/Oct/2026 22:24:33] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:36,248 INFO 127.0.0.1 - - [01/Oct/2026 22:24:36] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:39,248 INFO 127.0.0.1 - - [01/Oct/2026 22:24:39] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:42,239 INFO 127.0.0.1 - - [01/Oct/2026 22:24:42] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:45,242 INFO 127.0.0.1 - - [01/Oct/2026 22:24:45] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:48,249 INFO 127.0.0.1 - - [01/Oct/2026 22:24:48] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:50,148 INFO checkout ok total=216.0 coupon=SAVE10
+2026-10-01 22:24:50,149 INFO 127.0.0.1 - - [01/Oct/2026 22:24:50] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:24:51,236 INFO 127.0.0.1 - - [01/Oct/2026 22:24:51] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:51,415 INFO checkout ok total=216.0 coupon=SAVE10
+2026-10-01 22:24:51,415 INFO 127.0.0.1 - - [01/Oct/2026 22:24:51] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:24:54,253 INFO 127.0.0.1 - - [01/Oct/2026 22:24:54] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:24:54,255 INFO checkout ok total=216.0 coupon=SAVE10
+2026-10-01 22:24:54,255 INFO 127.0.0.1 - - [01/Oct/2026 22:24:54] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:24:57,238 INFO 127.0.0.1 - - [01/Oct/2026 22:24:57] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:00,239 INFO 127.0.0.1 - - [01/Oct/2026 22:25:00] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:03,253 INFO 127.0.0.1 - - [01/Oct/2026 22:25:03] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:06,245 INFO 127.0.0.1 - - [01/Oct/2026 22:25:06] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:09,238 INFO 127.0.0.1 - - [01/Oct/2026 22:25:09] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:12,251 INFO 127.0.0.1 - - [01/Oct/2026 22:25:12] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:15,246 INFO 127.0.0.1 - - [01/Oct/2026 22:25:15] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:18,252 INFO 127.0.0.1 - - [01/Oct/2026 22:25:18] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:21,238 INFO 127.0.0.1 - - [01/Oct/2026 22:25:21] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:24,239 INFO 127.0.0.1 - - [01/Oct/2026 22:25:24] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:27,254 INFO 127.0.0.1 - - [01/Oct/2026 22:25:27] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:30,239 INFO 127.0.0.1 - - [01/Oct/2026 22:25:30] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:33,260 INFO 127.0.0.1 - - [01/Oct/2026 22:25:33] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:36,240 INFO 127.0.0.1 - - [01/Oct/2026 22:25:36] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:39,245 INFO 127.0.0.1 - - [01/Oct/2026 22:25:39] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:42,242 INFO 127.0.0.1 - - [01/Oct/2026 22:25:42] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:45,236 INFO 127.0.0.1 - - [01/Oct/2026 22:25:45] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:48,253 INFO 127.0.0.1 - - [01/Oct/2026 22:25:48] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:51,241 INFO 127.0.0.1 - - [01/Oct/2026 22:25:51] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:54,241 INFO 127.0.0.1 - - [01/Oct/2026 22:25:54] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:25:57,249 INFO 127.0.0.1 - - [01/Oct/2026 22:25:57] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:00,241 INFO 127.0.0.1 - - [01/Oct/2026 22:26:00] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:03,244 INFO 127.0.0.1 - - [01/Oct/2026 22:26:03] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:06,251 INFO 127.0.0.1 - - [01/Oct/2026 22:26:06] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:07,978 INFO checkout ok total=1260 coupon=None
+2026-10-01 22:26:07,978 INFO 127.0.0.1 - - [01/Oct/2026 22:26:07] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:09,241 INFO 127.0.0.1 - - [01/Oct/2026 22:26:09] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:10,532 INFO checkout ok total=1180 coupon=None
+2026-10-01 22:26:10,533 INFO 127.0.0.1 - - [01/Oct/2026 22:26:10] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:12,254 INFO 127.0.0.1 - - [01/Oct/2026 22:26:12] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:13,085 INFO checkout ok total=165 coupon=None
+2026-10-01 22:26:13,085 INFO 127.0.0.1 - - [01/Oct/2026 22:26:13] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:15,241 INFO 127.0.0.1 - - [01/Oct/2026 22:26:15] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:15,668 INFO checkout ok total=1260 coupon=None
+2026-10-01 22:26:15,669 INFO 127.0.0.1 - - [01/Oct/2026 22:26:15] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:18,223 INFO checkout ok total=590 coupon=None
+2026-10-01 22:26:18,223 INFO 127.0.0.1 - - [01/Oct/2026 22:26:18] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:18,242 INFO 127.0.0.1 - - [01/Oct/2026 22:26:18] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:20,787 INFO checkout ok total=1180 coupon=None
+2026-10-01 22:26:20,787 INFO 127.0.0.1 - - [01/Oct/2026 22:26:20] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:21,248 INFO 127.0.0.1 - - [01/Oct/2026 22:26:21] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:23,336 INFO checkout ok total=360 coupon=None
+2026-10-01 22:26:23,336 INFO 127.0.0.1 - - [01/Oct/2026 22:26:23] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:24,244 INFO 127.0.0.1 - - [01/Oct/2026 22:26:24] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:25,882 INFO checkout ok total=590 coupon=None
+2026-10-01 22:26:25,883 INFO 127.0.0.1 - - [01/Oct/2026 22:26:25] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:27,243 INFO 127.0.0.1 - - [01/Oct/2026 22:26:27] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:28,453 INFO checkout ok total=360 coupon=None
+2026-10-01 22:26:28,453 INFO 127.0.0.1 - - [01/Oct/2026 22:26:28] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:30,239 INFO 127.0.0.1 - - [01/Oct/2026 22:26:30] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:30,989 INFO checkout ok total=165 coupon=None
+2026-10-01 22:26:30,990 INFO 127.0.0.1 - - [01/Oct/2026 22:26:30] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:33,250 INFO 127.0.0.1 - - [01/Oct/2026 22:26:33] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:33,541 INFO checkout ok total=120 coupon=None
+2026-10-01 22:26:33,541 INFO 127.0.0.1 - - [01/Oct/2026 22:26:33] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:36,102 INFO checkout ok total=1280 coupon=None
+2026-10-01 22:26:36,102 INFO 127.0.0.1 - - [01/Oct/2026 22:26:36] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:36,249 INFO 127.0.0.1 - - [01/Oct/2026 22:26:36] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:38,658 INFO checkout ok total=495 coupon=None
+2026-10-01 22:26:38,659 INFO 127.0.0.1 - - [01/Oct/2026 22:26:38] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:39,240 INFO 127.0.0.1 - - [01/Oct/2026 22:26:39] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:41,224 INFO checkout ok total=360 coupon=None
+2026-10-01 22:26:41,225 INFO 127.0.0.1 - - [01/Oct/2026 22:26:41] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:42,239 INFO 127.0.0.1 - - [01/Oct/2026 22:26:42] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:43,797 INFO checkout ok total=1260 coupon=None
+2026-10-01 22:26:43,797 INFO 127.0.0.1 - - [01/Oct/2026 22:26:43] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:45,241 INFO 127.0.0.1 - - [01/Oct/2026 22:26:45] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:46,365 INFO checkout ok total=1180 coupon=None
+2026-10-01 22:26:46,365 INFO 127.0.0.1 - - [01/Oct/2026 22:26:46] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:48,258 INFO 127.0.0.1 - - [01/Oct/2026 22:26:48] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:48,909 INFO checkout ok total=165 coupon=None
+2026-10-01 22:26:48,910 INFO 127.0.0.1 - - [01/Oct/2026 22:26:48] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:51,246 INFO 127.0.0.1 - - [01/Oct/2026 22:26:51] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:51,477 INFO checkout ok total=360 coupon=None
+2026-10-01 22:26:51,477 INFO 127.0.0.1 - - [01/Oct/2026 22:26:51] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:54,068 INFO checkout ok total=297.0 coupon=SAVE10
+2026-10-01 22:26:54,068 INFO 127.0.0.1 - - [01/Oct/2026 22:26:54] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:54,249 INFO 127.0.0.1 - - [01/Oct/2026 22:26:54] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:56,635 INFO checkout ok total=590 coupon=None
+2026-10-01 22:26:56,635 INFO 127.0.0.1 - - [01/Oct/2026 22:26:56] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:26:57,248 INFO 127.0.0.1 - - [01/Oct/2026 22:26:57] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:26:59,190 INFO checkout ok total=120 coupon=None
+2026-10-01 22:26:59,191 INFO 127.0.0.1 - - [01/Oct/2026 22:26:59] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:00,242 INFO 127.0.0.1 - - [01/Oct/2026 22:27:00] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:01,760 INFO checkout ok total=96.0 coupon=FEST20
+2026-10-01 22:27:01,761 INFO 127.0.0.1 - - [01/Oct/2026 22:27:01] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:03,251 INFO 127.0.0.1 - - [01/Oct/2026 22:27:03] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:04,309 INFO checkout ok total=324.0 coupon=SAVE10
+2026-10-01 22:27:04,310 INFO 127.0.0.1 - - [01/Oct/2026 22:27:04] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:06,253 INFO 127.0.0.1 - - [01/Oct/2026 22:27:06] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:06,888 INFO checkout ok total=162.0 coupon=SAVE10
+2026-10-01 22:27:06,889 INFO 127.0.0.1 - - [01/Oct/2026 22:27:06] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:09,249 INFO 127.0.0.1 - - [01/Oct/2026 22:27:09] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:09,444 INFO checkout ok total=120 coupon=None
+2026-10-01 22:27:09,445 INFO 127.0.0.1 - - [01/Oct/2026 22:27:09] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:12,017 INFO checkout ok total=1062.0 coupon=SAVE10
+2026-10-01 22:27:12,017 INFO 127.0.0.1 - - [01/Oct/2026 22:27:12] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:12,248 INFO 127.0.0.1 - - [01/Oct/2026 22:27:12] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:14,570 INFO checkout ok total=1280 coupon=None
+2026-10-01 22:27:14,570 INFO 127.0.0.1 - - [01/Oct/2026 22:27:14] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:16,170 INFO 127.0.0.1 - - [01/Oct/2026 22:27:16] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:17,102 INFO checkout ok total=512.0 coupon=FEST20
+2026-10-01 22:27:17,103 INFO 127.0.0.1 - - [01/Oct/2026 22:27:17] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:19,168 INFO 127.0.0.1 - - [01/Oct/2026 22:27:19] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:19,668 INFO checkout ok total=640 coupon=None
+2026-10-01 22:27:19,668 INFO 127.0.0.1 - - [01/Oct/2026 22:27:19] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:22,169 INFO 127.0.0.1 - - [01/Oct/2026 22:27:22] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:22,207 INFO checkout ok total=486.0 coupon=SAVE10
+2026-10-01 22:27:22,207 INFO 127.0.0.1 - - [01/Oct/2026 22:27:22] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:24,765 INFO checkout ok total=1134.0 coupon=SAVE10
+2026-10-01 22:27:24,766 INFO 127.0.0.1 - - [01/Oct/2026 22:27:24] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:25,167 INFO 127.0.0.1 - - [01/Oct/2026 22:27:25] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:27,317 INFO checkout ok total=590 coupon=None
+2026-10-01 22:27:27,318 INFO 127.0.0.1 - - [01/Oct/2026 22:27:27] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:28,170 INFO 127.0.0.1 - - [01/Oct/2026 22:27:28] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:29,852 INFO checkout ok total=576.0 coupon=SAVE10
+2026-10-01 22:27:29,852 INFO 127.0.0.1 - - [01/Oct/2026 22:27:29] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:31,181 INFO 127.0.0.1 - - [01/Oct/2026 22:27:31] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:32,414 INFO checkout ok total=840 coupon=None
+2026-10-01 22:27:32,414 INFO 127.0.0.1 - - [01/Oct/2026 22:27:32] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:34,168 INFO 127.0.0.1 - - [01/Oct/2026 22:27:34] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:34,974 INFO checkout ok total=495 coupon=None
+2026-10-01 22:27:34,975 INFO 127.0.0.1 - - [01/Oct/2026 22:27:34] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:37,166 INFO 127.0.0.1 - - [01/Oct/2026 22:27:37] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:37,508 INFO checkout ok total=96.0 coupon=FEST20
+2026-10-01 22:27:37,508 INFO 127.0.0.1 - - [01/Oct/2026 22:27:37] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:40,067 INFO checkout ok total=1134.0 coupon=SAVE10
+2026-10-01 22:27:40,067 INFO 127.0.0.1 - - [01/Oct/2026 22:27:40] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:40,168 INFO 127.0.0.1 - - [01/Oct/2026 22:27:40] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:42,633 INFO checkout ok total=486.0 coupon=SAVE10
+2026-10-01 22:27:42,634 INFO 127.0.0.1 - - [01/Oct/2026 22:27:42] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:43,167 INFO 127.0.0.1 - - [01/Oct/2026 22:27:43] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:45,192 INFO checkout ok total=180 coupon=None
+2026-10-01 22:27:45,193 INFO 127.0.0.1 - - [01/Oct/2026 22:27:45] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:46,170 INFO 127.0.0.1 - - [01/Oct/2026 22:27:46] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:47,735 INFO checkout ok total=297.0 coupon=SAVE10
+2026-10-01 22:27:47,736 INFO 127.0.0.1 - - [01/Oct/2026 22:27:47] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:49,170 INFO 127.0.0.1 - - [01/Oct/2026 22:27:49] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:50,293 INFO checkout ok total=1728.0 coupon=SAVE10
+2026-10-01 22:27:50,293 INFO 127.0.0.1 - - [01/Oct/2026 22:27:50] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:52,169 INFO 127.0.0.1 - - [01/Oct/2026 22:27:52] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:52,833 INFO checkout ok total=180 coupon=None
+2026-10-01 22:27:52,833 INFO 127.0.0.1 - - [01/Oct/2026 22:27:52] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:55,173 INFO 127.0.0.1 - - [01/Oct/2026 22:27:55] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:27:55,383 INFO checkout ok total=120 coupon=None
+2026-10-01 22:27:55,384 INFO 127.0.0.1 - - [01/Oct/2026 22:27:55] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:57,925 INFO checkout ok total=132.0 coupon=FEST20
+2026-10-01 22:27:57,926 INFO 127.0.0.1 - - [01/Oct/2026 22:27:57] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:27:58,170 INFO 127.0.0.1 - - [01/Oct/2026 22:27:58] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:00,491 INFO checkout ok total=640 coupon=None
+2026-10-01 22:28:00,492 INFO 127.0.0.1 - - [01/Oct/2026 22:28:00] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:01,167 INFO 127.0.0.1 - - [01/Oct/2026 22:28:01] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:03,055 INFO checkout ok total=1062.0 coupon=SAVE10
+2026-10-01 22:28:03,055 INFO 127.0.0.1 - - [01/Oct/2026 22:28:03] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:04,170 INFO 127.0.0.1 - - [01/Oct/2026 22:28:04] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:05,616 INFO checkout ok total=360 coupon=None
+2026-10-01 22:28:05,616 INFO 127.0.0.1 - - [01/Oct/2026 22:28:05] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:07,171 INFO 127.0.0.1 - - [01/Oct/2026 22:28:07] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:08,179 INFO checkout ok total=1260 coupon=None
+2026-10-01 22:28:08,180 INFO 127.0.0.1 - - [01/Oct/2026 22:28:08] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:10,169 INFO 127.0.0.1 - - [01/Oct/2026 22:28:10] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:10,729 INFO checkout ok total=165 coupon=None
+2026-10-01 22:28:10,729 INFO 127.0.0.1 - - [01/Oct/2026 22:28:10] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:13,317 INFO checkout ok total=360 coupon=None
+2026-10-01 22:28:13,317 INFO 127.0.0.1 - - [01/Oct/2026 22:28:13] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:15,856 INFO checkout ok total=1260 coupon=None
+2026-10-01 22:28:15,856 INFO 127.0.0.1 - - [01/Oct/2026 22:28:15] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:18,384 INFO checkout ok total=1770 coupon=None
+2026-10-01 22:28:18,385 INFO 127.0.0.1 - - [01/Oct/2026 22:28:18] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:20,933 INFO checkout ok total=590 coupon=None
+2026-10-01 22:28:20,933 INFO 127.0.0.1 - - [01/Oct/2026 22:28:20] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:23,498 INFO checkout ok total=1770 coupon=None
+2026-10-01 22:28:23,499 INFO 127.0.0.1 - - [01/Oct/2026 22:28:23] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:26,062 INFO checkout ok total=1536.0 coupon=FEST20
+2026-10-01 22:28:26,063 INFO 127.0.0.1 - - [01/Oct/2026 22:28:26] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:28,632 INFO checkout ok total=324.0 coupon=SAVE10
+2026-10-01 22:28:28,633 INFO 127.0.0.1 - - [01/Oct/2026 22:28:28] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:31,165 INFO checkout ok total=495 coupon=None
+2026-10-01 22:28:31,166 INFO 127.0.0.1 - - [01/Oct/2026 22:28:31] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:33,701 INFO checkout ok total=360 coupon=None
+2026-10-01 22:28:33,702 INFO 127.0.0.1 - - [01/Oct/2026 22:28:33] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:36,241 INFO checkout ok total=1260 coupon=None
+2026-10-01 22:28:36,242 INFO 127.0.0.1 - - [01/Oct/2026 22:28:36] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:38,783 INFO checkout ok total=1770 coupon=None
+2026-10-01 22:28:38,783 INFO 127.0.0.1 - - [01/Oct/2026 22:28:38] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:41,320 INFO checkout ok total=180 coupon=None
+2026-10-01 22:28:41,321 INFO 127.0.0.1 - - [01/Oct/2026 22:28:41] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:43,849 INFO checkout ok total=1280 coupon=None
+2026-10-01 22:28:43,850 INFO 127.0.0.1 - - [01/Oct/2026 22:28:43] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:46,400 INFO checkout ok total=378.0 coupon=SAVE10
+2026-10-01 22:28:46,400 INFO 127.0.0.1 - - [01/Oct/2026 22:28:46] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:46,650 INFO 127.0.0.1 - - [01/Oct/2026 22:28:46] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:48,934 INFO checkout ok total=495 coupon=None
+2026-10-01 22:28:48,934 INFO 127.0.0.1 - - [01/Oct/2026 22:28:48] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:49,169 INFO 127.0.0.1 - - [01/Oct/2026 22:28:49] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:51,492 INFO checkout ok total=360 coupon=None
+2026-10-01 22:28:51,493 INFO 127.0.0.1 - - [01/Oct/2026 22:28:51] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:52,164 INFO 127.0.0.1 - - [01/Oct/2026 22:28:52] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:54,062 INFO checkout ok total=1728.0 coupon=SAVE10
+2026-10-01 22:28:54,063 INFO 127.0.0.1 - - [01/Oct/2026 22:28:54] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:55,182 INFO 127.0.0.1 - - [01/Oct/2026 22:28:55] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:56,627 INFO checkout ok total=192.0 coupon=FEST20
+2026-10-01 22:28:56,628 INFO 127.0.0.1 - - [01/Oct/2026 22:28:56] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:28:58,173 INFO 127.0.0.1 - - [01/Oct/2026 22:28:58] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:28:59,167 INFO checkout ok total=180 coupon=None
+2026-10-01 22:28:59,168 INFO 127.0.0.1 - - [01/Oct/2026 22:28:59] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:01,186 INFO 127.0.0.1 - - [01/Oct/2026 22:29:01] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:01,733 INFO checkout ok total=330 coupon=None
+2026-10-01 22:29:01,734 INFO 127.0.0.1 - - [01/Oct/2026 22:29:01] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:04,184 INFO 127.0.0.1 - - [01/Oct/2026 22:29:04] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:04,288 INFO checkout ok total=1593.0 coupon=SAVE10
+2026-10-01 22:29:04,289 INFO 127.0.0.1 - - [01/Oct/2026 22:29:04] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:06,850 INFO checkout ok total=360 coupon=None
+2026-10-01 22:29:06,851 INFO 127.0.0.1 - - [01/Oct/2026 22:29:06] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:07,165 INFO 127.0.0.1 - - [01/Oct/2026 22:29:07] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:09,369 INFO checkout ok total=540 coupon=None
+2026-10-01 22:29:09,369 INFO 127.0.0.1 - - [01/Oct/2026 22:29:09] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:10,170 INFO 127.0.0.1 - - [01/Oct/2026 22:29:10] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:11,908 INFO checkout ok total=840 coupon=None
+2026-10-01 22:29:11,909 INFO 127.0.0.1 - - [01/Oct/2026 22:29:11] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:13,165 INFO 127.0.0.1 - - [01/Oct/2026 22:29:13] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:14,450 INFO checkout ok total=1728.0 coupon=SAVE10
+2026-10-01 22:29:14,450 INFO 127.0.0.1 - - [01/Oct/2026 22:29:14] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:16,165 INFO 127.0.0.1 - - [01/Oct/2026 22:29:16] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:16,997 INFO checkout ok total=1536.0 coupon=FEST20
+2026-10-01 22:29:16,998 INFO 127.0.0.1 - - [01/Oct/2026 22:29:16] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:19,165 INFO 127.0.0.1 - - [01/Oct/2026 22:29:19] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:19,555 INFO checkout ok total=840 coupon=None
+2026-10-01 22:29:19,555 INFO 127.0.0.1 - - [01/Oct/2026 22:29:19] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:22,114 INFO checkout ok total=297.0 coupon=SAVE10
+2026-10-01 22:29:22,114 INFO 127.0.0.1 - - [01/Oct/2026 22:29:22] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:22,167 INFO 127.0.0.1 - - [01/Oct/2026 22:29:22] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:24,666 INFO checkout ok total=120 coupon=None
+2026-10-01 22:29:24,666 INFO 127.0.0.1 - - [01/Oct/2026 22:29:24] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:25,172 INFO 127.0.0.1 - - [01/Oct/2026 22:29:25] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:27,224 INFO checkout ok total=120 coupon=None
+2026-10-01 22:29:27,224 INFO 127.0.0.1 - - [01/Oct/2026 22:29:27] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:28,169 INFO 127.0.0.1 - - [01/Oct/2026 22:29:28] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:29,797 INFO checkout ok total=840 coupon=None
+2026-10-01 22:29:29,798 INFO 127.0.0.1 - - [01/Oct/2026 22:29:29] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:31,166 INFO 127.0.0.1 - - [01/Oct/2026 22:29:31] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:32,380 INFO checkout ok total=378.0 coupon=SAVE10
+2026-10-01 22:29:32,381 INFO 127.0.0.1 - - [01/Oct/2026 22:29:32] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:34,168 INFO 127.0.0.1 - - [01/Oct/2026 22:29:34] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:34,945 INFO checkout ok total=360 coupon=None
+2026-10-01 22:29:34,946 INFO 127.0.0.1 - - [01/Oct/2026 22:29:34] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:37,164 INFO 127.0.0.1 - - [01/Oct/2026 22:29:37] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:37,504 INFO checkout ok total=1062.0 coupon=SAVE10
+2026-10-01 22:29:37,505 INFO 127.0.0.1 - - [01/Oct/2026 22:29:37] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:40,053 INFO checkout ok total=330 coupon=None
+2026-10-01 22:29:40,053 INFO 127.0.0.1 - - [01/Oct/2026 22:29:40] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:40,170 INFO 127.0.0.1 - - [01/Oct/2026 22:29:40] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:42,598 INFO checkout ok total=360 coupon=None
+2026-10-01 22:29:42,598 INFO 127.0.0.1 - - [01/Oct/2026 22:29:42] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:43,167 INFO 127.0.0.1 - - [01/Oct/2026 22:29:43] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:45,164 INFO checkout ok total=360 coupon=None
+2026-10-01 22:29:45,165 INFO 127.0.0.1 - - [01/Oct/2026 22:29:45] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:46,166 INFO 127.0.0.1 - - [01/Oct/2026 22:29:46] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:29:47,727 INFO checkout ok total=360 coupon=None
+2026-10-01 22:29:47,728 INFO 127.0.0.1 - - [01/Oct/2026 22:29:47] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:50,305 INFO checkout ok total=180 coupon=None
+2026-10-01 22:29:50,306 INFO 127.0.0.1 - - [01/Oct/2026 22:29:50] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:52,850 INFO checkout ok total=120 coupon=None
+2026-10-01 22:29:52,850 INFO 127.0.0.1 - - [01/Oct/2026 22:29:52] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:55,394 INFO checkout ok total=1134.0 coupon=SAVE10
+2026-10-01 22:29:55,394 INFO 127.0.0.1 - - [01/Oct/2026 22:29:55] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:29:57,946 INFO checkout ok total=432.0 coupon=FEST20
+2026-10-01 22:29:57,946 INFO 127.0.0.1 - - [01/Oct/2026 22:29:57] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:00,508 INFO checkout ok total=540 coupon=None
+2026-10-01 22:30:00,509 INFO 127.0.0.1 - - [01/Oct/2026 22:30:00] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:03,050 INFO checkout ok total=576.0 coupon=SAVE10
+2026-10-01 22:30:03,050 INFO 127.0.0.1 - - [01/Oct/2026 22:30:03] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:05,608 INFO checkout ok total=486.0 coupon=SAVE10
+2026-10-01 22:30:05,609 INFO 127.0.0.1 - - [01/Oct/2026 22:30:05] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:08,152 INFO checkout ok total=264.0 coupon=FEST20
+2026-10-01 22:30:08,152 INFO 127.0.0.1 - - [01/Oct/2026 22:30:08] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:10,702 INFO checkout ok total=120 coupon=None
+2026-10-01 22:30:10,703 INFO 127.0.0.1 - - [01/Oct/2026 22:30:10] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:13,261 INFO checkout ok total=486.0 coupon=SAVE10
+2026-10-01 22:30:13,262 INFO 127.0.0.1 - - [01/Oct/2026 22:30:13] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:15,812 INFO checkout ok total=148.5 coupon=SAVE10
+2026-10-01 22:30:15,813 INFO 127.0.0.1 - - [01/Oct/2026 22:30:15] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:18,368 INFO checkout ok total=264.0 coupon=FEST20
+2026-10-01 22:30:18,368 INFO 127.0.0.1 - - [01/Oct/2026 22:30:18] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:20,930 INFO checkout ok total=297.0 coupon=SAVE10
+2026-10-01 22:30:20,931 INFO 127.0.0.1 - - [01/Oct/2026 22:30:20] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:23,480 INFO checkout ok total=360 coupon=None
+2026-10-01 22:30:23,481 INFO 127.0.0.1 - - [01/Oct/2026 22:30:23] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:26,060 INFO checkout ok total=360 coupon=None
+2026-10-01 22:30:26,061 INFO 127.0.0.1 - - [01/Oct/2026 22:30:26] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:28,616 INFO checkout ok total=540 coupon=None
+2026-10-01 22:30:28,616 INFO 127.0.0.1 - - [01/Oct/2026 22:30:28] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:31,148 INFO checkout ok total=486.0 coupon=SAVE10
+2026-10-01 22:30:31,149 INFO 127.0.0.1 - - [01/Oct/2026 22:30:31] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:33,681 INFO checkout ok total=1180 coupon=None
+2026-10-01 22:30:33,682 INFO 127.0.0.1 - - [01/Oct/2026 22:30:33] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:36,242 INFO checkout ok total=1280 coupon=None
+2026-10-01 22:30:36,243 INFO 127.0.0.1 - - [01/Oct/2026 22:30:36] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:38,798 INFO checkout ok total=590 coupon=None
+2026-10-01 22:30:38,799 INFO 127.0.0.1 - - [01/Oct/2026 22:30:38] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:41,364 INFO checkout ok total=324.0 coupon=SAVE10
+2026-10-01 22:30:41,364 INFO 127.0.0.1 - - [01/Oct/2026 22:30:41] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:43,913 INFO checkout ok total=165 coupon=None
+2026-10-01 22:30:43,914 INFO 127.0.0.1 - - [01/Oct/2026 22:30:43] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:46,462 INFO checkout ok total=1770 coupon=None
+2026-10-01 22:30:46,463 INFO 127.0.0.1 - - [01/Oct/2026 22:30:46] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:47,167 INFO 127.0.0.1 - - [01/Oct/2026 22:30:47] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:30:49,006 INFO checkout ok total=1416.0 coupon=FEST20
+2026-10-01 22:30:49,006 INFO 127.0.0.1 - - [01/Oct/2026 22:30:49] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:51,558 INFO checkout ok total=165 coupon=None
+2026-10-01 22:30:51,559 INFO 127.0.0.1 - - [01/Oct/2026 22:30:51] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:54,116 INFO checkout ok total=165 coupon=None
+2026-10-01 22:30:54,116 INFO 127.0.0.1 - - [01/Oct/2026 22:30:54] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:56,649 INFO checkout ok total=1920 coupon=None
+2026-10-01 22:30:56,650 INFO 127.0.0.1 - - [01/Oct/2026 22:30:56] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:30:59,224 INFO checkout ok total=396.0 coupon=FEST20
+2026-10-01 22:30:59,224 INFO 127.0.0.1 - - [01/Oct/2026 22:30:59] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:01,764 INFO checkout ok total=1180 coupon=None
+2026-10-01 22:31:01,765 INFO 127.0.0.1 - - [01/Oct/2026 22:31:01] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:04,334 INFO checkout ok total=1770 coupon=None
+2026-10-01 22:31:04,335 INFO 127.0.0.1 - - [01/Oct/2026 22:31:04] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:06,881 INFO checkout ok total=165 coupon=None
+2026-10-01 22:31:06,882 INFO 127.0.0.1 - - [01/Oct/2026 22:31:06] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:09,432 INFO checkout ok total=495 coupon=None
+2026-10-01 22:31:09,433 INFO 127.0.0.1 - - [01/Oct/2026 22:31:09] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:12,005 INFO checkout ok total=180 coupon=None
+2026-10-01 22:31:12,005 INFO 127.0.0.1 - - [01/Oct/2026 22:31:12] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:14,538 INFO checkout ok total=144.0 coupon=FEST20
+2026-10-01 22:31:14,538 INFO 127.0.0.1 - - [01/Oct/2026 22:31:14] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:17,100 INFO checkout ok total=445.5 coupon=SAVE10
+2026-10-01 22:31:17,101 INFO 127.0.0.1 - - [01/Oct/2026 22:31:17] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:19,666 INFO checkout ok total=1024.0 coupon=FEST20
+2026-10-01 22:31:19,666 INFO 127.0.0.1 - - [01/Oct/2026 22:31:19] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:22,210 INFO checkout ok total=531.0 coupon=SAVE10
+2026-10-01 22:31:22,211 INFO 127.0.0.1 - - [01/Oct/2026 22:31:22] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:24,764 INFO checkout ok total=336.0 coupon=FEST20
+2026-10-01 22:31:24,764 INFO 127.0.0.1 - - [01/Oct/2026 22:31:24] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:27,337 INFO checkout ok total=297.0 coupon=SAVE10
+2026-10-01 22:31:27,338 INFO 127.0.0.1 - - [01/Oct/2026 22:31:27] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:29,891 INFO checkout ok total=360 coupon=None
+2026-10-01 22:31:29,891 INFO 127.0.0.1 - - [01/Oct/2026 22:31:29] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:32,460 INFO checkout ok total=96.0 coupon=FEST20
+2026-10-01 22:31:32,461 INFO 127.0.0.1 - - [01/Oct/2026 22:31:32] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:34,998 INFO checkout ok total=1008.0 coupon=FEST20
+2026-10-01 22:31:34,998 INFO 127.0.0.1 - - [01/Oct/2026 22:31:34] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:37,553 INFO checkout ok total=144.0 coupon=FEST20
+2026-10-01 22:31:37,554 INFO 127.0.0.1 - - [01/Oct/2026 22:31:37] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:40,095 INFO checkout ok total=495 coupon=None
+2026-10-01 22:31:40,095 INFO 127.0.0.1 - - [01/Oct/2026 22:31:40] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:42,663 INFO checkout ok total=640 coupon=None
+2026-10-01 22:31:42,664 INFO 127.0.0.1 - - [01/Oct/2026 22:31:42] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:45,243 INFO checkout ok total=378.0 coupon=SAVE10
+2026-10-01 22:31:45,244 INFO 127.0.0.1 - - [01/Oct/2026 22:31:45] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:47,781 INFO checkout ok total=162.0 coupon=SAVE10
+2026-10-01 22:31:47,781 INFO 127.0.0.1 - - [01/Oct/2026 22:31:47] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:48,168 INFO 127.0.0.1 - - [01/Oct/2026 22:31:48] "GET /api/status HTTP/1.1" 200 -
+2026-10-01 22:31:50,336 INFO checkout ok total=432.0 coupon=FEST20
+2026-10-01 22:31:50,336 INFO 127.0.0.1 - - [01/Oct/2026 22:31:50] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:52,896 INFO checkout ok total=360 coupon=None
+2026-10-01 22:31:52,897 INFO 127.0.0.1 - - [01/Oct/2026 22:31:52] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:55,491 INFO checkout ok total=396.0 coupon=FEST20
+2026-10-01 22:31:55,492 INFO 127.0.0.1 - - [01/Oct/2026 22:31:55] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:31:58,040 INFO checkout ok total=240 coupon=None
+2026-10-01 22:31:58,041 INFO 127.0.0.1 - - [01/Oct/2026 22:31:58] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:00,614 INFO checkout ok total=590 coupon=None
+2026-10-01 22:32:00,615 INFO 127.0.0.1 - - [01/Oct/2026 22:32:00] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:03,164 INFO checkout ok total=360 coupon=None
+2026-10-01 22:32:03,164 INFO 127.0.0.1 - - [01/Oct/2026 22:32:03] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:05,740 INFO checkout ok total=180 coupon=None
+2026-10-01 22:32:05,740 INFO 127.0.0.1 - - [01/Oct/2026 22:32:05] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:08,293 INFO checkout ok total=420 coupon=None
+2026-10-01 22:32:08,294 INFO 127.0.0.1 - - [01/Oct/2026 22:32:08] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:10,851 INFO checkout ok total=1593.0 coupon=SAVE10
+2026-10-01 22:32:10,851 INFO 127.0.0.1 - - [01/Oct/2026 22:32:10] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:13,382 INFO checkout ok total=144.0 coupon=FEST20
+2026-10-01 22:32:13,382 INFO 127.0.0.1 - - [01/Oct/2026 22:32:13] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:15,913 INFO checkout ok total=180 coupon=None
+2026-10-01 22:32:15,914 INFO 127.0.0.1 - - [01/Oct/2026 22:32:15] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:18,480 INFO checkout ok total=1770 coupon=None
+2026-10-01 22:32:18,480 INFO 127.0.0.1 - - [01/Oct/2026 22:32:18] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:21,028 INFO checkout ok total=192.0 coupon=FEST20
+2026-10-01 22:32:21,029 INFO 127.0.0.1 - - [01/Oct/2026 22:32:21] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:23,568 INFO checkout ok total=216.0 coupon=SAVE10
+2026-10-01 22:32:23,568 INFO 127.0.0.1 - - [01/Oct/2026 22:32:23] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:26,131 INFO checkout ok total=120 coupon=None
+2026-10-01 22:32:26,132 INFO 127.0.0.1 - - [01/Oct/2026 22:32:26] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:28,663 INFO checkout ok total=120 coupon=None
+2026-10-01 22:32:28,663 INFO 127.0.0.1 - - [01/Oct/2026 22:32:28] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:31,224 INFO checkout ok total=1770 coupon=None
+2026-10-01 22:32:31,225 INFO 127.0.0.1 - - [01/Oct/2026 22:32:31] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:33,763 INFO checkout ok total=264.0 coupon=FEST20
+2026-10-01 22:32:33,764 INFO 127.0.0.1 - - [01/Oct/2026 22:32:33] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:36,303 INFO checkout ok total=445.5 coupon=SAVE10
+2026-10-01 22:32:36,304 INFO 127.0.0.1 - - [01/Oct/2026 22:32:36] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:38,845 INFO checkout ok total=360 coupon=None
+2026-10-01 22:32:38,845 INFO 127.0.0.1 - - [01/Oct/2026 22:32:38] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:41,380 INFO checkout ok total=120 coupon=None
+2026-10-01 22:32:41,381 INFO 127.0.0.1 - - [01/Oct/2026 22:32:41] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:43,942 INFO checkout ok total=240 coupon=None
+2026-10-01 22:32:43,943 INFO 127.0.0.1 - - [01/Oct/2026 22:32:43] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:46,509 INFO checkout ok total=288.0 coupon=FEST20
+2026-10-01 22:32:46,509 INFO 127.0.0.1 - - [01/Oct/2026 22:32:46] "POST /api/checkout HTTP/1.1" 200 -
+2026-10-01 22:32:48,169 INFO 127.0.0.1 - - [01/Oct/2026 22:32:48] "GET /api/status HTTP/1.1" 200 -
